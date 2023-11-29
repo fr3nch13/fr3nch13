@@ -1,7 +1,5 @@
 ### Welcome to my profile
 
-Seeing where this shows up.
-
 <!--
 **fr3nch13/fr3nch13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
